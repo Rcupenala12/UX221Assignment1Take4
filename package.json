@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "wp-pwa": "latest"
+    "wp-pwa": "^0.1.21"
   },
   "scripts": {
     "dev": "wp-pwa dev",
